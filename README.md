@@ -13,6 +13,6 @@ After this, you can install the theme:
 
 Just click "Download Raw File", and choose the desired location.
 
-Now, put the recently installed `Gruvdisc.css` in your `BetterDiscord/themes` folder.
+Now, put the recently installed `Gruvdisc.css` in your `.config/BetterDiscord/themes` folder.
 
 That's it! The only step left is opening Discord and enabling the theme.
