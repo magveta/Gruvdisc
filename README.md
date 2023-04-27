@@ -9,7 +9,7 @@ First of all, you should have BetterDiscord up and running. You can install that
 
 After this, you can install the theme:
 
-* [Gruvdisc Theme](https://github.com/WMagueta/Gruvdisc/blob/main/Gruvdisc.css)
+* [Gruvdisc Theme](https://github.com/WMagueta/Gruvdisc/blob/main/Gruvdisc.theme.css)
 
 Just click "Download Raw File", and choose the desired location.
 
