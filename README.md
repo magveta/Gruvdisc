@@ -1,17 +1,17 @@
-Gruvdisc
+Gruvdisc :card_file_box:
 ========
 ### BetterDiscord theme based on the famous Gruvbox theme for Vim.
 
 ![687474703a2f2f692e696d6775722e636f6d2f776136363678672e706e67](https://user-images.githubusercontent.com/127806458/235155483-a7de1bc4-75d7-4543-a729-f1d09ba66294.png)
 
-## Installation
+## Installation :gear:
 First of all, you should have BetterDiscord up and running. You can install that here: 
 
-* [BetterDiscord Installation guide](https://docs.betterdiscord.app/users/getting-started/installation)
+* [BetterDiscord Installation guide](https://docs.betterdiscord.app/users/getting-started/installation) :envelope_with_arrow:
 
 After this, you can install the theme:
 
-* [Gruvdisc Theme](https://github.com/WMagueta/Gruvdisc/blob/main/Gruvdisc.theme.css)
+* [Gruvdisc Theme](https://github.com/WMagueta/Gruvdisc/blob/main/Gruvdisc.theme.css) :file_folder: 
 
 Just click "Download Raw File", and choose the desired location.
 
